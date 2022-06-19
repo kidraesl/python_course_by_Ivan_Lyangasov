@@ -1,4 +1,4 @@
-user_text = input('введите фразу')
+user_text = input('введите фразу ')
 greeting_phrases = ['привет', 'дароу', 'добрый день']
 greeting_phrases_2 = ['до свидания', 'пока', 'покеда', 'доброго вечера']
 greeting_phrases_3 = ['бля', 'черт', 'блин']

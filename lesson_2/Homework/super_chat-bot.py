@@ -10,7 +10,7 @@ for greeting_frase in greeting_phrases:
 else:
     for greeting_frase in greeting_phrases_2:
         if user_text == greeting_frase:
-            print('пока!')
+            print('до свидания!')
             break
     else:
         for greeting_frase in greeting_phrases_3:

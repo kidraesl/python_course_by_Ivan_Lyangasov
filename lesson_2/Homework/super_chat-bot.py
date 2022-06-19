@@ -11,13 +11,17 @@ for greeting_frase in greeting_phrases:
 
 else:
     for greeting_frase in greeting_phrases_2:
+
         if user_text == greeting_frase:
             print('пока!')
             break
+
     else:
         for greeting_frase in greeting_phrases_3:
+
             if user_text == greeting_frase:
                 print('не ругайся')
                 break
+
             else:
                 print('я тебя не понимаю')
